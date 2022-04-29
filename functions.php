@@ -1,4 +1,3 @@
-
 <?php
   function my_style_enqueue_styles() {
     wp_enqueue_style( 'style', get_stylesheet_uri() );
