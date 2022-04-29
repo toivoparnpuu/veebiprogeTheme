@@ -86,8 +86,10 @@ a:hover
     list-style-type: none;
     font-size: small;
     background-color: beige;
+    display: inline;
 }
 .myNavListCss {
     list-style-type: none;
     font-size: small;
+    display: inline;
 }
