@@ -11,3 +11,8 @@
   }
   add_action( 'init', 'register_my_links_menu' );
 
+  function register_my_extra_menu() {
+    register_nav_menu('extra-menu',__( 'Extra Menu' ));
+  }
+  add_action( 'init', 'register_my_extra_menu' );
+

@@ -89,3 +89,7 @@ a:hover
 }
 
 
+.myNavListCss {
+    list-style-type: none;
+    font-size: small;
+}
