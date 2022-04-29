@@ -84,5 +84,8 @@ a:hover
     
 
 }
+.myNavList {
+    list-style-type: none;
+}
 
 
