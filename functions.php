@@ -6,9 +6,9 @@
   }
   add_action('wp_enqueue_scripts', 'my_style_enqueue_styles');
 
-
-  function register_my_links_menu() {
-    register_nav_menu('links-menu',__( 'Links Menu' ));
-  }
-  add_action( 'init', 'register_my_links_menu' );
+//
+//  function register_my_links_menu() {
+//    register_nav_menu('links-menu',__( 'Links Menu' ));
+//  }
+//  add_action( 'init', 'register_my_links_menu' );
 
