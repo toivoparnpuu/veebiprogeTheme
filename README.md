@@ -7,7 +7,6 @@
 - single.php
 - css
     - style.css
-<<<<<<< HEAD
 ## Teema paigaldamine
 - Lisaväljad, kuidas luua?
 - Kuidas paigadada
@@ -16,10 +15,4 @@
 - väike eksam
     - teeme väikese veebilehe ning paneme selle Wordpressi.
         - html, css, mingid postitused...
-- 
-=======
 
-## Kuidas kujuneb lõpphinne
-- väike eksam
-    - teeme väikese veebilehe ning paneme selle Wordpressi.
->>>>>>> main
