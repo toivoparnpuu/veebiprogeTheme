@@ -8,9 +8,9 @@
         <?php if ( is_singular() && get_option( 'thread_comments' ) ) wp_enqueue_script( 'comment-reply' ); ?>
         <?php wp_head(); ?>
     </head>
-
+<body>
+<h1><?php echo get_bloginfo('name');?> <h1>
 <header>
-    <h1><?php echo get_bloginfo('name');?> <h1>
     <?php wp_nav_menu(array('theme_location' => 'links-menu', 'menu_class' => 'myNavList'));?>
     <?php wp_nav_menu(array('theme_location' => 'extra-menu', 'menu_class' => 'myNavListCss'));?>
-
+</header>
