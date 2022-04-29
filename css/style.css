@@ -86,9 +86,9 @@ a:hover
 }
 .myNavList {
     list-style-type: none;
+    font-size: small;
+    background-color: beige;
 }
-
-
 .myNavListCss {
     list-style-type: none;
     font-size: small;
