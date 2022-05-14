@@ -1,5 +1,6 @@
 .subpagecontainter {
     display: flex;
+    flex-wrap: wrap;
 }
 
 .subpagecontainter>div {
