@@ -1,6 +1,10 @@
+body {
+    background-color: lightblue;
+}
+
 h1 {
     text-align: center;
-  }
+}
 
 .subpagecontainter {
     display: flex;
@@ -22,8 +26,9 @@ h1 {
     margin: auto;
     width: 60%;
     padding: 10px;
-    
+
 }
+
 .menu-randrahnude-navigatsioon-container ul {
     margin: 10;
     padding: 10;
@@ -33,7 +38,7 @@ h1 {
 
 .menu-randrahnude-navigatsioon-container li {
     display: inline;
-    
+
 }
 
 .menu-randrahnude-navigatsioon-container ul li a {
@@ -53,7 +58,7 @@ h1 {
     margin: auto;
     width: 50%;
     padding: 10px;
-    
+
 }
 
 .menu-lisa-menuu-container ul {
