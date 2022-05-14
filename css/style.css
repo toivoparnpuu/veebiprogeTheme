@@ -15,11 +15,9 @@
 }
 
 
-
-
 .menu-randrahnude-navigatsioon-container ul {
-    margin: 0;
-    padding: 0;
+    margin: 10;
+    padding: 10;
     list-style-type: none;
     list-style-image: none;
 }
@@ -44,8 +42,8 @@
 
 
 .menu-lisa-menuu-container ul {
-    margin: 0;
-    padding: 0;
+    margin: 10;
+    padding: 10;
     list-style-type: none;
     list-style-image: none;
 }
