@@ -19,8 +19,9 @@ h1 {
 }
 
 .menu-randrahnude-navigatsioon-container {
-    margin: 20;
+    margin: auto;
     width: 50%;
+    border: 10px;
     padding: 10px;
 }
 .menu-randrahnude-navigatsioon-container ul {
