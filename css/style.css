@@ -1,24 +1,10 @@
 body
 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: rgb(211, 125, 19);
+    background-color: rgb(243, 212, 174);
 }
 
-.rahnuronimine
-{
-    width: 100%;
-    display: flex;
-}
-.sisu
-{
-    width: 100%;
-    display: flex;
-    flex-wrap: wrap;
-}
-p
-{
-    padding-left: 50px;
-}
+
 nav
 {
     display: flex;
@@ -30,58 +16,24 @@ main
     width: 100%;
     display: flex;
 }
-header
-{
-    width: 100%;
+
+
+
+.subpagecontainter {
     display: flex;
-}
-.footer
-{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: rgb(219, 188, 188);
-}
+    }
+    .subpagecontainter > div {
+    font-size: 4vh;
+    color: white;
+    background: gray;
+    margin: .1em;
+    padding: .3em;
+    border-radius: 3px;
+    flex: 1;
+    }
 
 
-a:hover
-{
-    font-weight: bold;
-}
 
-.example
-{
-    height: 100%;
-    width: 100%;
-    margin: 0 auto;
-}
-
-.ellipse
-{
-    width: 500px;
-}
-
-.subpagecontainter
-{
-    /* 
-    width: 320px; 
-    */
-    flex-basis: 320px;
-    /* max-width: 400; */
-    max-width: calc(50% - 30px);
-    flex-grow: 1; /* see on suhtarv, nagu 100% */
-
-    height: 440px;
-    margin: 5px;
-    padding: 10px;
-    padding-top: 0px;
-    border: 1px solid white;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    
-
-}
 .myNavList {
     list-style-type: none;
     font-size: small;

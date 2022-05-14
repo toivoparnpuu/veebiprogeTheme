@@ -1,9 +1,13 @@
 <?php 
 get_header();
 the_title();
-the_content();
+<div class="subpagecontainter">
+    the_content();
+</div>
 ?>
-<p>Kõrgus: <?php echo(get_post_meta(get_the_ID(), $key = 'height', $single = true)); ?> </p>
+<div class="subpagecontainter">
+<div>Kõrgus: <?php echo(get_post_meta(get_the_ID(), $key = 'height', $single = true)); ?> </div>
+</div>
 <?php
 get_footer();
 ?>
