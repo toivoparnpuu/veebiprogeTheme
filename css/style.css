@@ -18,7 +18,10 @@ h1 {
     flex: 1;
 }
 
-
+.menu-randrahnude-navigatsioon-container ul {
+    margin: auto;
+    width: 80%;
+}
 .menu-randrahnude-navigatsioon-container ul {
     margin: 10;
     padding: 10;
