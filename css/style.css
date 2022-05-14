@@ -19,7 +19,7 @@
     width: 80%;
     flex-wrap: nowrap;
 }
-.menu-randrahnude-navigatsioon-container>li {
+.myNavList {
     font-size: 4vh;
     color: white;
     background: gray;
