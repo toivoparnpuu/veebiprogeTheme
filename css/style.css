@@ -17,6 +17,8 @@
 
 
 .menu-randrahnude-navigatsioon-container> *{
-        list-style-type: none; list-style-image: none;
+        list-style-type: none; 
+        list-style-image: none;
+        display:  inline-block;
 }
 
