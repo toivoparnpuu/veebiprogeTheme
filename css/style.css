@@ -33,6 +33,7 @@ h1 {
 
 .menu-randrahnude-navigatsioon-container li {
     display: inline;
+    padding: 10px;
 }
 
 .menu-randrahnude-navigatsioon-container ul li a {
