@@ -17,14 +17,52 @@
 
 
 
-.menu-randrahnude-navigatsioon-container ul { margin: 0; padding: 0; 
-	list-style-type: none; list-style-image: none; }
+.menu-randrahnude-navigatsioon-container ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    list-style-image: none;
+}
 
-.menu-randrahnude-navigatsioon-container li { display: inline; }
+.menu-randrahnude-navigatsioon-container li {
+    display: inline;
+}
 
-.menu-randrahnude-navigatsioon-container ul li a { text-decoration:none;  margin: 4px;
-	padding: 5px 20px 5px 20px; color: blue;
-	background: pink; }
+.menu-randrahnude-navigatsioon-container ul li a {
+    text-decoration: none;
+    margin: 4px;
+    padding: 5px 20px 5px 20px;
+    color: blue;
+    background: pink;
+}
 
-.menu-randrahnude-navigatsioon-container ul li a:hover { color: purple;
-	background: yellow; }
+.menu-randrahnude-navigatsioon-container ul li a:hover {
+    color: purple;
+    background: yellow;
+}
+
+
+
+.menu-lisa-menuu-container ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    list-style-image: none;
+}
+
+.menu-lisa-menuu-container li {
+    display: inline;
+}
+
+.menu-lisa-menuu-container ul li a {
+    text-decoration: none;
+    margin: 4px;
+    padding: 5px 20px 5px 20px;
+    color: blue;
+    background: pink;
+}
+
+.menu-lisa-menuu-container ul li a:hover {
+    color: purple;
+    background: yellow;
+}
