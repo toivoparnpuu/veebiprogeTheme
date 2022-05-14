@@ -1,28 +1,8 @@
-body
-{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: rgb(243, 212, 174);
-}
-
-
-nav
-{
-    display: flex;
-    background-color: rgb(219, 188, 188);
-}
-
-main
-{
-    width: 100%;
-    display: flex;
-}
-
-
-
 .subpagecontainter {
     display: flex;
-    }
-    .subpagecontainter > div {
+}
+
+.subpagecontainter>div {
     font-size: 4vh;
     color: white;
     background: gray;
@@ -30,18 +10,4 @@ main
     padding: .3em;
     border-radius: 3px;
     flex: 1;
-    }
-
-
-
-.myNavList {
-    list-style-type: none;
-    font-size: small;
-    background-color: beige;
-    display: inline;
-}
-.myNavListCss {
-    list-style-type: none;
-    font-size: small;
-    display: inline;
 }
