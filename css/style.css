@@ -1,5 +1,6 @@
 .subpagecontainter {
     display: flex;
+    width: 80%;
     flex-wrap: wrap;
 }
 
@@ -10,5 +11,5 @@
     margin: .1em;
     padding: .3em;
     border-radius: 3px;
-    flex: 1 1 300px;
+    flex: 1;
 }
