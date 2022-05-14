@@ -8,8 +8,23 @@
     font-size: 4vh;
     color: white;
     background: gray;
-    margin: .1em;
-    padding: .3em;
+    margin: .5em;
+    padding: .5em;
+    border-radius: 3px;
+    flex: 1;
+}
+
+.menu-randrahnude-navigatsioon-container {
+    display: flex;
+    width: 80%;
+    flex-wrap: nowrap;
+}
+.menu-randrahnude-navigatsioon-container>li {
+    font-size: 4vh;
+    color: white;
+    background: gray;
+    margin: .5em;
+    padding: .5em;
     border-radius: 3px;
     flex: 1;
 }
